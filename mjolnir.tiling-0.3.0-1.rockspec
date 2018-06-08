@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "mjolnir.tiling"
-version = "0.3.0-1"
--- LuaDist source
+version = "0.3.1-1"
 source = {
-  tag = "0.3.0-1",
-  url = "git://github.com/LuaDist-testing/mjolnir.tiling.git"
+   url = "git://github.com/nathankot/mjolnir.tiling",
+   tag = "v0.3.1",
+   dir = "mjolnir.tiling"
 }
--- Original source
--- source = {
---    url = "git://github.com/nathankot/mjolnir.tiling",
---    tag = "v0.3.0",
---    dir = "mjolnir.tiling"
--- }
 description = {
    summary = "Tiling window management for mjolnir",
    detailed = [[
